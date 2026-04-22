@@ -1,5 +1,5 @@
-<img align='right' src='./images/BG.png' height='700px'>
 
+<img align="right" src="./images/BG.png" width="25%" style="max-width: 300px;">
 ---
 ### 👨‍💻 About Me
 
